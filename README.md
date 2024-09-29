@@ -1,4 +1,4 @@
-# Sabzlearn Git Course Repo
+# h-e Git Repo
 
 ___
 [my site url](https://elhambarzegar1403-h.github.io/testgit2)
