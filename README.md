@@ -3,7 +3,7 @@
 ___
 [my site url](https://elhambarzegar1403-h.github.io/testgit2)
 
-<p>This Respo is for session 54 of sabzlearn git course :))</p>
+<p>This Respo is for session 54 :))</p>
 
 ---
 
@@ -13,9 +13,9 @@ Inline `code`
 
 ```json
 {
-  "firstName": "Amin",
-  "lastName": "Saaedi",
-  "userName": "Amin_Saeedi_0101"
+  "firstName": "H",
+  "lastName": "E",
+  "userName": "H-E-SotwareEngineer"
 }
 ```
 
@@ -48,18 +48,14 @@ Unordered:
 - FrontEnd (`Html` `Css` `Js` => Package)
 
     - React js
-    - Vue js
-    - Angular js
+   
 
 ---
 
 ## Projects Links
 
-[Sabzlearn Git Course](http://sabzlearn.ir/product/git-github/)
 
-[Sabzlearn Nodejs Ex Course](https://sabzlearn.ir/product/node-ex/)
 
-[Sabzlearn TypeScript Course](https://sabzlearn.ir/product/typescript/)
 
 ---
 
@@ -81,13 +77,3 @@ ___
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-<!-- ## Sabzlearn Git Course Repo
-
-### Sabzlearn Git Course Repo
-
-#### Sabzlearn Git Course Repo
-
-##### Sabzlearn Git Course Repo
-
-###### Sabzlearn Git Course Repo -->
